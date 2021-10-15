@@ -3,7 +3,6 @@ from tqdm import tqdm
 
 from pygraphblas import Matrix, BOOL
 from src.graph.index_graph import SAVEMIDDLETYPE
-from src.graph.length_graph import SAVELENGTHTYPE
 
 from src.utils.graph_size import get_graph_size
 

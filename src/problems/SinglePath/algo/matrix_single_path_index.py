@@ -2,7 +2,7 @@ from pyformlang.cfg import CFG
 from src.graph.graph import Graph
 
 from src.problems.SinglePath.SinglePath import SinglePathProblem
-from src.problems.SinglePath.algo.matrix_single_path.matrix_single_path import MatrixSinglePath
+from src.problems.SinglePath.algo.matrix_single_path import MatrixSinglePath
 
 from src.graph.index_graph import IndexGraph, SAVEMIDDLETYPE
 from src.grammar.cnf_grammar import CnfGrammar

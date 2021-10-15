@@ -5,7 +5,7 @@ from src.problems.Base.algo.matrix_base.matrix_base import MatrixBaseAlgo
 from src.problems.AllPaths.algo.tensor.tensor import TensorSimpleAlgo
 from src.problems.AllPaths.algo.tensor.tensor import TensorDynamicAlgo
 
-from src.problems.SinglePath.algo.matrix_single_path.matrix_single_path_index import MatrixSingleAlgo
+from src.problems.SinglePath.algo.matrix_single_path_index import MatrixSingleAlgo
 
 from src.problems.MultipleSource.algo.matrix_ms.matrix_ms import MatrixMSOptAlgo
 from src.problems.MultipleSource.algo.matrix_ms.matrix_ms import MatrixMSBruteAlgo
